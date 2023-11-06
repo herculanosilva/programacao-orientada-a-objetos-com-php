@@ -1,0 +1,17 @@
+{
+    "name": "herculano/curso-poo-php",
+    "description": "Curso completo sobre POO com PHP",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Herculano\\CursoPooPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "herculano",
+            "email": "herculano.silva@comparedistribuidora.com.br"
+        }
+    ],
+    "require": {}
+}
